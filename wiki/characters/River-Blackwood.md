@@ -82,31 +82,35 @@ Seine **emotionale Abschottung** entstand als Überlebensstrategie. Vertrauen wu
 ## 💭 Zentrale Konflikte
 
 ### Innere Konflikte
-- **Vertrauen vs. Selbstschutz:** Kann er es riskieren, sich zu öffnen?
-- **Verbindung vs. Sicherheit der anderen:** Bringt Nähe andere in Gefahr?
-- **Persönliche Heilung vs. kosmische Verantwortung:** Was ist wichtiger?
+- **Vertrauen vs. Selbstschutz:** Kann er es riskieren, wieder verletzt zu werden?
+- **Verbindung vs. Sicherheit der anderen:** Bringt seine Nähe die Menschen in Gefahr?
+- **Persönliche Heilung vs. kosmische Verantwortung:** Was schuldet er dem Universum?
 
 ### Äußere Konflikte
-- **Kanzler Thornes Interesse** an seiner Fähigkeit
-- **Republikanische Verfolgung** 
-- **Die Bedrohung durch die Große Konvergenz**
+- **Kanzler Thornes Interesse** an seiner seltenen Fähigkeit
+- **Republikanische Verfolgung** als "Person of Interest"
+- **Die Bedrohung durch die Große Konvergenz** und seine Rolle dabei
 
 ## 🌟 Thematische Bedeutung
 
-**Trauma-informierte Science Fiction:** River repräsentiert einen realistischen Umgang mit PTSD - er wird nicht durch Liebe "geheilt", sondern lernt langsam, mit seinem Trauma zu leben und trotzdem Verbindungen einzugehen.
+### Trauma-Repräsentation
+River verkörpert einen **realistischen Umgang mit PTSD** - er wird nicht durch Liebe "geheilt", sondern lernt langsam, mit seinem Trauma zu leben und trotzdem Verbindungen einzugehen.
 
-**LGBTQ+ Repräsentation:** Seine Homosexualität ist ein natürlicher Teil seiner Identität, nicht der Kern seines Konflikts oder eine Quelle von Drama.
+### LGBTQ+ Authentizität
+Seine **Homosexualität ist ein natürlicher Teil seiner Identität**, nicht der Fokus seines Konflikts. Keine "Coming-out"-Dramaturgie, sondern authentische Repräsentation.
 
-**Kosmische Verantwortung:** Ein gebrochener Mensch muss das Universum retten - was bedeutet es, wenn die Hoffnung der Galaxie selbst traumatisiert ist?
-
----
-
-**Verbindungen:**
-- [Kai](./Kai.md) - Romantischer Partner und wissenschaftlicher Mitarbeiter
-- [Die Void-Architekten](../worldbuilding/Die-Void-Architekten.md) - Quelle seiner besonderen Fähigkeit
-- [Kanzler Thorne](./Kanzler-Thorne.md) - Will seine Macht missbrauchen
-- [Kepler-442b](../worldbuilding/Kepler-442b.md) - Ort seiner Heilung und Entdeckung
+### Kosmische Verantwortung
+**Wie viel Verantwortung kann ein gebrochener Mensch tragen?** Rivers Geschichte erforscht, ob persönliche Heilung und universelle Verantwortung kompatibel sind.
 
 ---
 
-*Zurück zu [Charaktere](../Void-Eternal-Characters.md) | [Void Eternal Hauptseite](../Void-Eternal-Home.md)*
+## Verbindungen
+
+- **[Kai](./Kai.md)** - Romantischer Partner und wissenschaftlicher Mitarbeiter
+- **[Die Void-Architekten](../worldbuilding/Die-Void-Architekten.md)** - Quelle seiner besonderen Fähigkeit  
+- **[Kanzler Thorne](./Kanzler-Thorne.md)** - Will seine Macht missbrauchen
+- **[Kepler-442b](../worldbuilding/Kepler-442b.md)** - Ort seiner Heilung und Entdeckung
+
+---
+
+*Zurück zu [Void Eternal Charaktere](../Void-Eternal-Characters.md)*
