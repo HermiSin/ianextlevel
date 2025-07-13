@@ -13,26 +13,27 @@
 ## 🎭 Persönlichkeit
 
 ### Öffentliches Image
-- **Charismatischer Redner:** Kann Massen begeistern und manipulieren
-- **"Mann des Volkes":** Inszeniert sich als Beschützer der einfachen Bürger
-- **Starker Führer:** Verspricht Ordnung in chaotischen Zeiten
-- **Patriotischer Held:** Nutzt Nationalismus als politisches Werkzeug
+**Charismatischer Redner:** Kann Massen begeistern und manipulieren. Inszeniert sich als "Mann des Volkes" und Beschützer der einfachen Bürger.
+
+**Starker Führer:** Verspricht Ordnung in chaotischen Zeiten und nutzt Nationalismus als politisches Werkzeug.
 
 ### Wahre Natur
-- **Rücksichtsloser Machtmensch:** Alles ist seiner Macht untergeordnet
-- **Manipulativer Stratege:** Meister der politischen Intrige
-- **Paranoid und kontrollsüchtig:** Sieht überall Bedrohungen seiner Macht
-- **Moralisch bankrott:** Keine Skrupel bei der Verfolgung seiner Ziele
+**Rücksichtsloser Machtmensch:** Alles ist seiner Macht untergeordnet. Ein manipulativer Stratege und Meister der politischen Intrige.
+
+**Paranoid und kontrollsychtig:** Sieht überall Bedrohungen seiner Macht und ist moralisch bankrott - keine Skrupel bei der Verfolgung seiner Ziele.
 
 ## 💰 Korruption und Machtmissbrauch
 
 ### Systematische Korruption
-**Lobby-Kontrolle:** Vollständig im Griff des militärisch-industriellen Komplexes. Thorne stellt sicher, dass reiche Kernwelten überproportional repräsentiert sind, während er Bürokratie nutzt, um Opposition zu frustrieren.
-
-**Schwarzmarkt-Verbindungen:** Profitiert heimlich von der Kriminalität, die er öffentlich zu bekämpfen vorgibt.
+- **Lobby-Kontrolle:** Vollständig im Griff des militärisch-industriellen Komplexes
+- **Wahlmanipulation:** Stellt sicher, dass reiche Kernwelten überproportional repräsentiert sind
+- **Bürokratische Lähmung:** Nutzt Ineffizienz, um Opposition zu frustrieren
+- **Schwarzmarkt-Verbindungen:** Profitiert von der Kriminalität, die er vorgibt zu bekämpfen
 
 ### Persönliche Bereicherung
-**Luxus-Sucht:** Seine Ausgaben für persönlichen Luxus übersteigen das offizielle Gehalt um das Tausendfache. Er besitzt geheime Residenzen auf verschiedenen Welten und sammelt obsessiv seltene Artefakte.
+- **Luxus-Sucht:** Ausgaben für persönlichen Luxus übersteigen das offizielle Gehalt um das Tausendfache
+- **Geheime Residenzen:** Versteckte Paläste auf verschiedenen Welten
+- **Sammelleidenschaft:** Obsessive Sammlung seltener Artefakte durch fragwürdige Methoden
 
 ## 🔥 Gefährliche Ambitionen
 
@@ -52,28 +53,32 @@
 ## 🎯 Bedrohung für das Universum
 
 ### Beschleunigung der Großen Konvergenz
-Thornes rücksichtslose Manipulation der Void-Architekten-Technologie könnte die bereits fragile Balance zerstören und unkontrollierte Reaktionen in anderen Schwarzloch-Maschinen auslösen.
+**Thornes rücksichtslose Manipulation** der Void-Architekten-Technologie könnte:
 
-**Realitätskollaps:** Seine Ignoranz könnte das Universum selbst gefährden.
+- **Destabilisierung beschleunigen:** Die bereits fragile Balance zerstören
+- **Kaskadeneffekte auslösen:** Unkontrollierte Reaktionen in anderen Schwarzloch-Maschinen
+- **Realitätskollaps herbeiführen:** Das Universum selbst gefährden
 
 ### Unwissen als Waffe
-**Völlige Ahnungslosigkeit:** Thorne versteht nicht die wahre Bedrohung seiner Aktionen. Wissenschaftler und Experten werden ignoriert oder zum Schweigen gebracht, während sein kurzsichtiger Machthunger alles andere überschattet.
+- **Völlige Ahnungslosigkeit:** Versteht nicht die wahre Bedrohung seiner Aktionen
+- **Ignoranz gegenüber Warnungen:** Wissenschaftler und Experten werden ignoriert oder zum Schweigen gebracht
+- **Kurzsichtiger Machthunger:** Alles andere ist nebensächlich
 
 ## 🕵️ Dunkle Geheimnisse
 
 ### Der "Aethros-Faktor"
-**Das Gerücht:** Thorne wusste im Voraus von dem geplanten Piratenüberfall auf Aethros Prime und ließ ihn geschehen, um später billiger Land aufkaufen zu können.
+**Das Gerücht:** Thorne wusste im Voraus von dem geplanten Piratenüberfall auf Aethros Prime und ließ ihn geschehen.
 
 **Mögliche Beweise:**
 - Verschlüsselte Kommunikation vor dem Überfall
 - Ignorierte Warnungen von Nachrichtendiensten
-- Späterer Aufkauf durch Konzern-Verbündete
+- Späterer billiger Aufkauf durch Konzern-Verbündete
 
-**Bedeutung für River:** Rivers Trauma könnte direktes Resultat von Thornes Gier sein.
+**Bedeutung für River:** Rivers Trauma könnte direktes Resultat von Thornes Gier sein
 
 ### Der "Verschwindungsakt"
-**Vermisste Personen** die Thorne kritisiert haben:
-- **Senator David Moral:** Randwelt-Vertreter
+**Vermisste Personen:**
+- **Senator David Moral:** Randwelt-Vertreter, Thornes Kritiker
 - **Journalistin Sarah Chen:** Investigative Reporterin
 - **General Marcus Stone:** Ehemaliger politischer Rivale
 
@@ -82,7 +87,9 @@ Thornes rücksichtslose Manipulation der Void-Architekten-Technologie könnte di
 ## ⚔️ Konfrontation mit River
 
 ### Warum River?
-River besitzt eine **einzigartige Fähigkeit** - er kann die Void-Architekten-"Sprache" verstehen und ist der erste Mensch seit Millionen Jahren mit dieser Gabe. Thorne ist verzweifelt, da es keine Alternativen gibt.
+- **Einzigartige Fähigkeit:** Kann die Void-Architekten-"Sprache" verstehen
+- **Mangel an Alternativen:** Erster Mensch seit Millionen Jahren mit dieser Gabe
+- **Verzweiflung:** Thorne braucht River für seine Pläne
 
 ### Thornes Strategie
 - **Erpressung:** Bedrohung von Rivers geliebten Menschen
@@ -90,7 +97,9 @@ River besitzt eine **einzigartige Fähigkeit** - er kann die Void-Architekten-"S
 - **Gewalt:** Wenn alles andere fehlschlägt
 
 ### Rivers Widerstand
-**Moralische Überlegenheit:** Rivers Trauma macht ihn immun gegen Thornes Manipulation. Sein kosmisches Verständnis lässt ihn die wahre Bedrohung erkennen, und seine persönliche Motivation ist der Schutz derer, die er liebt.
+- **Moralische Überlegenheit:** Rivers Trauma macht ihn immun gegen Thornes Manipulation
+- **Kosmisches Verständnis:** River erkennt die wahre Bedrohung
+- **Persönliche Motivation:** Schutz derer, die er liebt
 
 ## 🌟 Narrative Funktion
 
@@ -100,27 +109,31 @@ River besitzt eine **einzigartige Fähigkeit** - er kann die Void-Architekten-"S
 - **Persönliches vs. Kosmisches:** Kleine menschliche Gier bedroht das gesamte Universum
 
 ### Entwicklungspotential
-**Mögliche Erlösung?** Könnte Thorne die Wahrheit erkennen und sich ändern? Seine Angst und Paranoia machen ihn zu einer tragischen Figur, die als ultimativer Test für Rivers Charakter und kosmische Mission dient.
+- **Mögliche Erlösung?** Könnte er die Wahrheit erkennen und sich ändern?
+- **Tragische Figur:** Seine Angst und Paranoia machen ihn menschlich
+- **Ultimativer Test:** Für Rivers Charakter und kosmische Mission
 
-## 💭 Zentrale Konflikte
+## 🔮 Psychologische Tiefe
 
-### Politische Konflikte
-- **Machterhalt vs. Verantwortung**
-- **Kurzfristige Gewinne vs. langfristige Stabilität**
-- **Kontrolle vs. Freiheit**
+### Motivationen
+**Angst vor Machtverlust:** Sein gesamtes Selbstwertgefühl ist an seine Position geknüpft. Ohne Macht ist er nichts.
 
-### Persönliche Konflikte
-- **Paranoia vs. Vertrauen**
-- **Gier vs. Genügsamkeit**
-- **Angst vor Machtverlust vs. Akzeptanz der Wahrheit**
+**Paranoia:** Sieht überall Verschwörungen und Bedrohungen, was ironischerweise seine größte Schwäche ist.
 
----
+### Tragische Elemente
+**Selbst erschaffene Isolation:** Seine Machenschaften haben ihn von allen echten menschlichen Verbindungen abgeschnitten.
 
-**Verbindungen:**
-- [River Blackwood](./River-Blackwood.md) - Hauptziel und größte Bedrohung
-- [Die Stellare Republik](../worldbuilding/Die-Stellare-Republik.md) - Korrumpiertes System unter seiner Kontrolle
-- [Die Void-Architekten](../worldbuilding/Die-Void-Architekten.md) - Quelle der Macht, die er zu kontrollieren sucht
+**Gefangener seines Systems:** Kann nicht zurück, da zu viele seiner Handlungen unvergeblich sind.
 
 ---
 
-*Zurück zu [Charaktere](../Void-Eternal-Characters.md) | [Void Eternal Hauptseite](../Void-Eternal-Home.md)*
+## Verbindungen
+
+- **[River Blackwood](./River-Blackwood.md)** - Hauptziel und größte Bedrohung
+- **[Die Stellare Republik](../worldbuilding/Die-Stellare-Republik.md)** - Korrumpiertes System unter seiner Kontrolle
+- **[Die Void-Architekten](../worldbuilding/Die-Void-Architekten.md)** - Quelle der Macht, die er zu kontrollieren sucht
+- **[Aethros Prime](../worldbuilding/Aethros-Prime.md)** - Möglicherweise verantwortlich für Rivers Trauma
+
+---
+
+*Zurück zu [Void Eternal Charaktere](../Void-Eternal-Characters.md)*
